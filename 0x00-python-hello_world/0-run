@@ -1,5 +1,2 @@
-#!/usr/bin/python3
-print("Best School")
-export PYFILE=main.py
-./0-run
-Best School
+#!/bin/bash
+phyton3 $PYFILE
